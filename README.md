@@ -3,5 +3,5 @@ Syntax for a new subtitle script. And a subtitle script conversion program (wind
 
 The zipfile contains:
 1) The script conversion program
-2) User documentation in a pdf (dutch language)
-3) Two test files
+2) User documentation in two pdfs (dutch language)
+3) Three test files
