@@ -5,3 +5,5 @@ The zipfile contains:
 1) The script conversion program
 2) User documentation in two pdfs (dutch language)
 3) Three test files
+
+The conversion program also can be used to validate subtitle script formats.
